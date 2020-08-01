@@ -1,4 +1,4 @@
-package singleResponsibilityPrinciple.coesao;
+package main.com.solid.singleResponsibilityPrinciple.coesao;
 
 public class QuinzeOuVinteCincoPorCento implements RegraDeSalario {
 

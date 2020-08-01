@@ -1,4 +1,4 @@
-package singleResponsibilityPrinciple.acoplamento;
+package main.com.solid.singleResponsibilityPrinciple.acoplamento;
 
 import java.util.List;
 

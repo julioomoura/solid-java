@@ -1,4 +1,4 @@
-package openClosedPrinciple;
+package main.com.solid.openClosedPrinciple;
 
 public class Frete implements TipoDeFrete{
     public double para(String cidade) {
